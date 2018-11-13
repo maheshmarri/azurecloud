@@ -2,4 +2,4 @@
 
 echo "Hello World!";
 echo "update to app";
-echo "update from staging;
+echo "Reupdate from staging ;
