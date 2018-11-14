@@ -1,6 +1,5 @@
 <?php
-
-echo "Hello World!";
-echo "update to app";
-
+   echo "Hello !! World";
+    phpInfo();
+?>
 
